@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1e0017/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部五
+  hash: sha256:02dd33ef1c70b837406ca8d729e4163b1ab6b8a43895174682c3937c960ea212
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0017_WYG_000-1a, image: WYG0146/WYG0146-0719a.png}
+body:
+  text: 春秋年表春秋類提要臣等謹案春秋年表一卷不著撰人名氏陳振孫書録解題云春秋二十國年表一卷不知何人作自周而下次以魯蔡曹衛滕晉鄭齊秦楚宋把陳吳越邾莒薛小邾館閣書目有年表二卷元豐中楊彥齡撰自周之外凡十三國又董氏藏書志有年表無撰人自周至吳越凡十國征伐朝覲㑹同皆書今此表正二十國與書録解題所載同蓋即陳振孫所見也其書在宋本自單行嶽珂雕印九經乃以附春秋之後珂記云春秋年表今諸本或闕號名或紊年月參之經傳多有舛錯今皆為刋正諸國君卒與立皆書惟魯闕今依經傳添補廖本無年表歸一圖今既刋公榖并補二書以附經傳之後是此書經珂刋補與馮繼先之名號歸一圖同刻者通志堂經解不考嶽珂之語乃與名號歸一圖連為一書亦以為馮繼先所撰誤之甚矣乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f54a11907f4a4a6435bf44a1437376c06cf0d230e151f72b2cad1cd98fa904ef
+metadata:
+  title: 春秋年表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:12:51.748639'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1e0017/KR1e0017_000.txt
+hash: sha256:0538fb9a2c95f014ca5863f95dc76fd063dd300ebb31ae5ecf931a9729e6de8c
